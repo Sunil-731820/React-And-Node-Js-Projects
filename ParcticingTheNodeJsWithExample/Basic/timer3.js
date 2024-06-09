@@ -6,4 +6,4 @@ function welcome () {
   console.log("The value of te id1 is :",id1)
   console.log("Th Value of te id2 is : ",id2)
   clearTimeout(id1);  
-  clearInterval(id2); 
+  clearInterval(id2);    
